@@ -68,7 +68,7 @@ def inline_wrapper(func):
                     [
                         InlineKeyboardButton(
                             "💥 JOIN ✨",
-                            url=f"https://t.me/DevilMultiverse
+                            url=f"https://t.me/DevilMultiverse"
                         )
                     ]
                 ]
